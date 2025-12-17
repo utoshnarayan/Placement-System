@@ -1,0 +1,27 @@
+placement-system/
+├── index.html
+├── admin.html
+├── placements.html
+├── company.html
+├── analytics.html
+├── assets/
+│   ├── images/
+│   │   ├── logo.svg
+│   │   └── sample-photos/
+│   │       ├── student1.jpg
+│   │       ├── student2.jpg
+│   │       └── ...
+│   └── icons/
+├── css/
+│   └── styles.css
+├── js/
+│   ├── app.js
+│   ├── api.js
+│   ├── charts.js
+│   └── ui/
+│       ├── table.js
+│       ├── pagination.js
+│       ├── modal.js
+│       ├── forms.js
+│       └── toast.js
+└── README.md
